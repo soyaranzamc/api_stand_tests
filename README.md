@@ -1,0 +1,1 @@
+Este proyecto contiene pruebas automatizadas para una API.
